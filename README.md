@@ -35,3 +35,52 @@ The model is trained using historical traffic and weather data and deployed usin
 ```bash
 git clone https://github.com/AnkitaRameshNandgadkar/SmartTrafficPrediction.git
 cd SmartTrafficPrediction
+---
+
+## 🧠 Machine Learning Workflow
+
+1. Data Collection  
+2. Data Preprocessing  
+3. Feature Selection  
+4. Model Training  
+5. Model Evaluation  
+6. Deployment using Streamlit  
+
+---
+
+## 💡 Use Case
+
+This system can be used by:
+
+- Smart City Projects
+- Traffic Management Authorities
+- Navigation Systems
+- Urban Planning Departments
+
+---
+
+## 📊 Model Details
+
+- Algorithm: Machine Learning Regression / Classification
+- Input Features: Weather, Temperature, Humidity, Time
+- Output: Traffic Congestion Level
+
+---
+
+## 🌐 Deployment (Future Scope)
+
+- Streamlit Cloud
+- AWS / Azure
+- Docker Container
+
+---
+
+## ⭐ Support
+
+If you like this project, please consider giving it a star ⭐ on GitHub!
+
+---
+
+## 📬 Contact
+
+GitHub: https://github.com/AnkitaRameshNandgadkar
