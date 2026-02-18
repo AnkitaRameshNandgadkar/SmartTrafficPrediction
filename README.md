@@ -33,5 +33,5 @@ The model is trained using historical traffic and weather data and deployed usin
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SmartTrafficPrediction.git
+git clone https://github.com/AnkitaRameshNandgadkar/SmartTrafficPrediction.git
 cd SmartTrafficPrediction
