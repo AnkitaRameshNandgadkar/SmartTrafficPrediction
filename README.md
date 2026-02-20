@@ -15,7 +15,13 @@ This project uses machine learning techniques to predict traffic congestion by a
 
 The model is trained using historical traffic and weather data and deployed using Streamlit for an interactive web interface.
 
+
+
+![App_Screenshot](screenshot.png.png)
+
+
 ---
+
 
 ## 🛠️ Tech Stack
 
